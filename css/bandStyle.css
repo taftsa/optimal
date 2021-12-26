@@ -1,0 +1,51 @@
+.menuOption:hover {
+    color: lightblue;
+    border-top: 1px solid lightblue;
+}
+
+#addPiece:hover {
+    background-color: lightblue;
+}
+
+.selectedPiece {
+    background-color: lightblue;
+}
+
+.dataCat {
+    color: lightblue;
+}
+
+.analysisCount {
+    color: lightblue;
+}
+
+.button:hover {
+    border-bottom: 3px solid lightblue;
+    color: lightblue;
+}
+
+#rememberButton.forgetMe {
+	border-bottom: 3px solid lightblue;
+    color: lightblue;
+}
+
+.loader {
+    border-top: 6px solid lightblue;
+}
+
+.loaderExternal {
+    border-top: 6px solid lightblue;
+}
+
+.checkbox:checked {
+    background-color: lightblue;
+}
+
+.trueBasic {
+    background-color: lightblue;
+}
+
+.trueAdvanced {
+    background-color: maroon;
+    color: lightgrey;
+}
